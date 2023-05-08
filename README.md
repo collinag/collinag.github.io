@@ -7,7 +7,7 @@ This project aims to predict winning NHL teams using machine learning models. Th
 ### Project 1: NHL Game Prediction in R
 
 
-[https://github.com/collinag/NHL-Game-Prediction-in-R]
+[NHL-Game-Prediction](https://github.com/collinag/NHL-Game-Prediction-in-R)
 
 ## Skills
 
