@@ -8,7 +8,7 @@ This portfolio showcases some of my data science projects that I have worked on.
 
 Description: This project is about...
 
-[https://github.com/collinag/NHL-Game-Prediction-in-R](project1/)
+[https://github.com/collinag/NHL-Game-Prediction-in-R]
 
 ## Skills
 
