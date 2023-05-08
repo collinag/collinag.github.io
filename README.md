@@ -22,5 +22,5 @@ Description: This project is about...
 
 ## Contact Me
 
-- Email: collingarofalo@gmail.com
-- LinkedIn: [collingarofalo](https://www.linkedin.com/in/collingarofalo/)
+- collingarofalo@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/collingarofalo/)
