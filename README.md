@@ -21,7 +21,10 @@ In this project, I will be exploring the nottem dataset in R and will create tim
 
 [Air-Temp-Time-Series](https://github.com/collinag/Nottingham-Air-Temperature-Time-Series-Model)
 
+### Project 4: Predicting the Superconducting Critical Temperature
+In this project, a linear regression model will be estimated to predict the superconducting critical temperature based on features which were extracted from the superconductor’s chemical formula. 
 
+[Superconducting-Critical-Temperature](https://github.com/collinag/Predicting-the-Superconducting-Critical-Temperature)
 
 ## Skills
 
