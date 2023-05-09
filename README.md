@@ -7,8 +7,6 @@ This project aims to predict winning NHL teams using machine learning models. Th
 
 [NHL-Game-Prediction](https://github.com/collinag/NHL-Game-Prediction-in-R)
 
-![image](https://user-images.githubusercontent.com/50085554/236970447-294fa269-6b22-471b-b6a5-388d98a1018f.png)
-
 ### Project 2: Movie Rating Recommendation Prediction
 This project aims to use matrix factorization
 and random forest models to find the best prediction of movie
